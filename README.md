@@ -38,7 +38,23 @@ Project Link
 
 ![Screenshot 2024-10-13 124006](https://github.com/user-attachments/assets/8e7feec4-5577-4b5b-8db3-41594d6fc963)
 
-5. To-Do List: Organize Your Tasks Efficiently
+5.Mind Easy: Your Mental Wellness Companion
+Mind Easy is a mental wellness platform designed to provide users with tools and resources for managing stress, anxiety, and overall mental health. The application includes various features aimed at promoting mindfulness and self-care, helping users achieve a balanced and healthy mindset.
+
+Key Features:
+Mood tracking
+Guided meditation sessions
+Stress relief exercises
+Resource library for mental health education
+Technologies: JavaScript, HTML, CSS
+Project Link: Mind Easy GitHub Repository
+
+
+![Screenshot 2024-10-13 123458](https://github.com/user-attachments/assets/7dc836ea-8419-49b7-98d3-73ada0a23527)
+
+
+
+6. To-Do List: Organize Your Tasks Efficiently
 A simple yet efficient task management application that helps users keep track of their daily tasks, with persistent data storage.
 
 
