@@ -10,6 +10,8 @@ Technologies: JavaScript, HTML, CSS
 Project Link
 
 ![Screenshot 2024-10-13 124340](https://github.com/user-attachments/assets/1d67ea6d-1a02-45c7-b519-57c3eaa861a8)
+![Screenshot 2024-10-13 124412](https://github.com/user-attachments/assets/4085ae74-aad2-40c0-8f28-208a4b758f4a)
+
 
 2. DubMaster AI: Your Ultimate Hub for Seamless AI Dubbing
 An AI-powered dubbing platform that generates high-quality voiceovers in multiple languages and accents, perfect for content creators and educators.
