@@ -80,6 +80,8 @@ Passman: A password manager system developed for a college project (PBL).
 🌱 What I'm Working On
 I’m currently enhancing my backend development skills and working on making my portfolio public with an improved design. Additionally, I’m exploring AI-based projects and contributing to open-source software.
 
+![level0-sloth-code-0-0-0-0](https://github.com/user-attachments/assets/8dcee9a7-e1ce-4f8e-bea4-f568f930498f)
+
 📫 How to Reach Me
 LinkedIn: Nirbhay Hiwse
 GitHub: 
