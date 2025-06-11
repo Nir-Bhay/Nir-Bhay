@@ -95,7 +95,7 @@ const nirbhay = {
       <h3 align="center">🔧 JS-Toolbox</h3>
       <p align="center">
         <a href="https://github.com/Nir-Bhay/JS-Toolbox">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nir-Bhay&repo=JS-Toolbox&theme=radical" alt="JS-Toolbox"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nir-Bhay&repo=JS-Toolbox---Find-you-best-tools&theme=radical" alt="JS-Toolbox"/>
         </a>
         <br><br>
         Collection of utilities including QR generator, image converter, and text-to-handwriting tools
@@ -118,10 +118,10 @@ const nirbhay = {
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🔐 PassMan</h3>
+      <h3 align="center"> 16-PARCHI-GAME</h3>
       <p align="center">
-        <a href="https://github.com/Nir-Bhay/PassMan">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nir-Bhay&repo=PassMan&theme=radical" alt="PassMan"/>
+        <a href="https://github.com/Nir-Bhay/16-PARCHI-GAME">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nir-Bhay&repo=16-PARCHI-GAME&theme=radical" alt="PassMan"/>
         </a>
         <br><br>
         Secure password manager with encryption (PBL College Project)
