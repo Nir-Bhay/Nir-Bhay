@@ -1,12 +1,14 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=00A8FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Nirbhay+Hiwse;Full-Stack+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
-</div>
+# Nirbhay Hiwse 👨‍💻
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nir-Bhay&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0366D6&center=true&vCenter=true&random=false&width=600&lines=B.Tech+CSE+Student+%40+Sage+University;Web+Developer+%7C+Cybersecurity+Enthusiast;Open+Source+Contributor;Building+Secure+%26+Elegant+Solutions" alt="Typing SVG" />
 </div>
 
-## 👨‍💻 About Me
+<p align="center">
+  <em>I believe every piece of code tells a story - I aim to make mine secure and elegant!</em>
+</p>
+
+## 🧠 About Me
 
 ```javascript
 const nirbhay = {
@@ -18,3 +20,48 @@ const nirbhay = {
   funFact: "I believe every piece of code tells a story - I aim to make mine secure and elegant!"
 };
 ```
+
+## SECTION 3: Education
+
+```markdown
+## 🎓 Education
+
+- **B.Tech in Computer Science & Engineering** (2022 – Present)  
+  Sage University, Bhopal
+
+- **Senior Secondary (XII), Science** (2022)  
+  Bhagwan Shrichand Public School (CBSE)
+```
+## 💼 Work & Leadership Experience
+
+- **Event Coordinator** @ Sage University *(Aug 2023 – Present)*
+- **Development Team Lead** @ PassMan Password Manager *(Mar 2024 – Present)*
+- **Project Manager** @ MindEasy *(Feb 2024 – May 2024)*
+- **Lead Developer** @ Library Study-Space Project *(Oct 2023 – May 2024)*
+- **Frontend Developer** @ DubMaster AI *(Apr 2023 – Sep 2023)*
+
+## 🛠️ Technical Skills
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</div>
+
+<div align="center">
+  <h3>Other Skills</h3>
+  <img src="https://img.shields.io/badge/-AI/ML_Basics-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML" />
+  <img src="https://img.shields.io/badge/-Video_Editing-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Video Editing" />
+  <img src="https://img.shields.io/badge/-Photography-0063DC?style=for-the-badge&logo=flickr&logoColor=white" alt="Photography" />
+  <img src="https://img.shields.io/badge/-Cybersecurity-FF0000?style=for-the-badge&logo=shieldsdotio&logoColor=white" alt="Cybersecurity" />
+</div>
+
