@@ -24,12 +24,12 @@ const nirbhay = {
 ## SECTION 3: Education
 
 ```markdown
-## 🎓 Education
+🎓 Education
 
-- **B.Tech in Computer Science & Engineering** (2022 – Present)  
+B.Tech in Computer Science & Engineering** (2022 – Present)  
   Sage University, Bhopal
 
-- **Senior Secondary (XII), Science** (2022)  
+Senior Secondary (XII), Science** (2022)  
   Bhagwan Shrichand Public School (CBSE)
 ```
 ## 💼 Work & Leadership Experience
@@ -65,3 +65,65 @@ const nirbhay = {
   <img src="https://img.shields.io/badge/-Cybersecurity-FF0000?style=for-the-badge&logo=shieldsdotio&logoColor=white" alt="Cybersecurity" />
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nir-Bhay&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nir-Bhay&theme=radical" alt="GitHub Streak" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nir-Bhay&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+## 🚀 Featured Projects
+
+### 🔧 JS-Toolbox
+> Collection of utilities including QR generator, image converter, and text-to-handwriting tools
+- **Tech Stack:** JavaScript, HTML, CSS
+- **[View Project →](https://github.com/Nir-Bhay/JS-Toolbox)**
+
+### 🎬 DubMaster AI
+> AI-powered multi-language dubbing platform for content creators
+- **Tech Stack:** React, Node.js, AI/ML APIs
+- **[View Project →](https://github.com/Nir-Bhay/DubMaster-AI)**
+
+### 📋 SeatWise
+> Automated PDF-based exam seating arrangement system
+- **Tech Stack:** JavaScript, PDF Processing
+- **[View Project →](https://github.com/Nir-Bhay/SeatWise)**
+
+### 📚 Library Management System
+> Personalized study-space booking platform for students
+- **Tech Stack:** Full Stack Web Application
+- **[View Project →](https://github.com/Nir-Bhay/Library-Management-System)**
+
+### 🧠 MindEasy
+> Student mental-health platform (Hackathon Project)
+- **Tech Stack:** React, Node.js, MongoDB
+- **[View Project →](https://github.com/Nir-Bhay/MindEasy)**
+
+### 🔐 PassMan
+> Secure password manager (PBL College Project)
+- **Tech Stack:** React, Express, MongoDB, Encryption
+- **[View Project →](https://github.com/Nir-Bhay/PassMan)**
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Nir-Bhay/JS-Toolbox">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nir-Bhay&repo=JS-Toolbox&theme=radical" alt="JS-Toolbox" />
+  </a>
+  <a href="https://github.com/Nir-Bhay/DubMaster-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nir-Bhay&repo=DubMaster-AI&theme=radical" alt="DubMaster AI" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Nir-Bhay/PassMan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nir-Bhay&repo=PassMan&theme=radical" alt="PassMan" />
+  </a>
+  <a href="https://github.com/Nir-Bhay/SeatWise">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nir-Bhay&repo=SeatWise&theme=radical" alt="SeatWise" />
+  </a>
+</div>
