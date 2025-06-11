@@ -30,8 +30,6 @@ const nirbhay = {
   funFact: "I believe every piece of code tells a story - I aim to make mine secure and elegant!"
 };
 ```
-![gif3](https://github.com/user-attachments/assets/a8b312d5-95a0-4c0a-b9f3-488d9c95182b)
-
 
 ## SECTION 3: Fixed Education Section
 
