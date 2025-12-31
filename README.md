@@ -16,9 +16,7 @@
   <a href="https://github.com/Nir-Bhay?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Nir-Bhay?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Nir-Bhay&label=Profile%20Views&color=6&icon=5&pretty=true" />
-  </a>
+  <img src="https://visitcount.itsvg.in/api?id=Nir-Bhay&label=Profile%20Views&color=6&icon=5&pretty=true"/>
 </p>
 
 <!-- Social Links -->
@@ -151,10 +149,7 @@ const nirbhay = {
 <a href="https://github.com/Nir-Bhay/SeatWise-SaaS">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nir-Bhay&repo=SeatWise-SaaS&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </a>
-<p>
-  <strong>Smart Exam Seat Allocation System</strong><br/>
-  Automated exam seating with PDF generation & admin dashboard
-</p>
+<p><strong>Smart Exam Seat Allocation System</strong><br/>Automated exam seating with PDF generation & admin dashboard</p>
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
@@ -166,10 +161,7 @@ const nirbhay = {
 
 ### 🌾 Agro-Setu
 <img src="https://img.shields.io/badge/🔒_Private_Repository-1a1a2e?style=for-the-badge"/>
-<p>
-  <strong>Agricultural Connectivity Platform</strong><br/>
-  Mobile app connecting farmers with markets & resources
-</p>
+<p><strong>Agricultural Connectivity Platform</strong><br/>Mobile app connecting farmers with markets & resources</p>
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
@@ -178,7 +170,6 @@ const nirbhay = {
 
 </td>
 </tr>
-
 <tr>
 <td width="50%">
 
@@ -186,10 +177,7 @@ const nirbhay = {
 <a href="https://github.com/Nir-Bhay/Interactive-3D-Solar-System-Simulation-0.2">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nir-Bhay&repo=Interactive-3D-Solar-System-Simulation-0.2&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </a>
-<p>
-  <strong>Interactive 3D Space Simulation</strong><br/>
-  Realistic orbital mechanics with Three.js
-</p>
+<p><strong>Interactive 3D Space Simulation</strong><br/>Realistic orbital mechanics with Three.js</p>
 <p>
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -202,10 +190,7 @@ const nirbhay = {
 <a href="https://github.com/Nir-Bhay/chess">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nir-Bhay&repo=chess&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </a>
-<p>
-  <strong>Crystal/Azure UI Chess</strong><br/>
-  Premium 3D chess with marble textures & animations
-</p>
+<p><strong>Crystal/Azure UI Chess</strong><br/>Premium 3D chess with marble textures & animations</p>
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
@@ -213,18 +198,14 @@ const nirbhay = {
 
 </td>
 </tr>
-
 <tr>
 <td width="50%">
 
-### 🍔 Delicious Food Delivery
+### 🍔 Food Delivery App
 <a href="https://github.com/Nir-Bhay/Delicious-Food-Delivered-to-Your-Doorstep">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nir-Bhay&repo=Delicious-Food-Delivered-to-Your-Doorstep&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </a>
-<p>
-  <strong>Full-Stack Food Ordering Platform</strong><br/>
-  MERN stack with JWT authentication
-</p>
+<p><strong>Full-Stack Food Ordering Platform</strong><br/>MERN stack with JWT authentication</p>
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
@@ -238,10 +219,7 @@ const nirbhay = {
 <a href="https://github.com/Nir-Bhay/Nirbhay-Hiwse-Personal-Portfolio">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nir-Bhay&repo=Nirbhay-Hiwse-Personal-Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </a>
-<p>
-  <strong>Interactive Developer Portfolio</strong><br/>
-  Premium 3D animations & modern design
-</p>
+<p><strong>Interactive Developer Portfolio</strong><br/>Premium 3D animations & modern design</p>
 <p>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -253,7 +231,6 @@ const nirbhay = {
 
 </div>
 
-<!-- View All Projects Button -->
 <div align="center">
   <a href="https://github.com/Nir-Bhay?tab=repositories">
     <img src="https://img.shields.io/badge/View_All_78+_Repositories-6AD3F7?style=for-the-badge&logo=github&logoColor=black"/>
@@ -263,106 +240,31 @@ const nirbhay = {
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Project Categories
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((My Projects))
-    Web Development
-      SaaS Products
-        SeatWise
-        Library Booking
-      E-commerce
-        F1 Street
-        Cloud Kitchen
-      Portfolios
-        3D Portfolio
-        Personal Sites
-    Mobile Apps
-      React Native
-        Agro-Setu
-        Delicious Mobile
-      Expo
-        Chess Game
-        Food Delivery
-    3D Graphics
-      Three.js
-        Solar System
-        Portfolio Effects
-      Animations
-        Chess Pieces
-        UI Transitions
-    AI Integration
-      Google Gemini
-        Observation Quiz
-        AI Features
-    Social Impact
-      NGO Websites
-        Basti Ki Pathshala
-        Ranjana Empowerment
-      Education
-        High-Flyers
-        Library System
-```
-
-</div>
-
-<!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🏆 Achievements & Experience
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/💼_Freelance-success?style=for-the-badge"/>
-<h3>₹30,000</h3>
-<p><strong>Sood Infra</strong><br/>Real Estate Website</p>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🚀_Hackathon-blue?style=for-the-badge"/>
-<h3>MindEasy</h3>
-<p><strong>Mental Health Platform</strong><br/>Sistech, Feb 2024</p>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🎤_Conference-purple?style=for-the-badge"/>
-<h3>Presenter</h3>
-<p><strong>International Conference</strong><br/>Sage University, 2023</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🦈_Pitch-orange?style=for-the-badge"/>
-<h3>Shark Tank</h3>
-<p><strong>Startup Pitch</strong><br/>Sage University, 2024</p>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/📜_Certified-yellow?style=for-the-badge"/>
-<h3>JavaScript</h3>
-<p><strong>HackerRank</strong><br/>2024</p>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🎓_Education-red?style=for-the-badge"/>
-<h3>B.Tech CSE</h3>
-<p><strong>Sage University</strong><br/>2022 - 2026</p>
-</td>
-</tr>
-</table>
+| 💼 Freelance | 🚀 Hackathon | 🎤 Conference |
+|:---:|:---:|:---:|
+| **₹30,000** | **MindEasy** | **Presenter** |
+| Sood Infra | Mental Health Platform | International Conference |
+| Real Estate Website | Sistech, Feb 2024 | Sage University, 2023 |
+
+| 🦈 Startup Pitch | 📜 Certification | 🎓 Education |
+|:---:|:---:|:---:|
+| **Shark Tank** | **JavaScript** | **B.Tech CSE** |
+| Sage University | HackerRank | Sage University |
+| 2024 | 2024 | 2022 - 2026 |
 
 </div>
 
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 Contribution Metrics
+## 📊 Coding Stats
 
 <div align="center">
 
-<!--START_SECTION:waka-->
 ```text
 JavaScript   ████████████████░░░░░   65.5%
 TypeScript   ██████░░░░░░░░░░░░░░░   20.2%
@@ -370,7 +272,6 @@ CSS          ████░░░░░░░░░░░░░░░░░   8
 HTML         ██░░░░░░░░░░░░░░░░░░░   4.3%
 Java         █░░░░░░░░░░░░░░░░░░░░   1.5%
 ```
-<!--END_SECTION:waka-->
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nir-Bhay&theme=tokyonight" width="90%"/>
 
@@ -388,7 +289,7 @@ Java         █░░░░░░░░░░░░░░░░░░░░   1
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🤝 Let's Connect!
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect!
 
 <div align="center">
 
@@ -410,7 +311,7 @@ Java         █░░░░░░░░░░░░░░░░░░░░   1
 
 <br/><br/>
 
-### 💬 "I believe every piece of code tells a story – I aim to make mine secure and elegant!"
+### 💬 *"I believe every piece of code tells a story – I aim to make mine secure and elegant!"*
 
 </div>
 
@@ -422,7 +323,7 @@ Java         █░░░░░░░░░░░░░░░░░░░░   1
 <!-- Random Dev Quote -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Nir-Bhay&label=Profile%20Views&color=6AD3F7&style=for-the-badge" alt="Profile Views"/>
 
