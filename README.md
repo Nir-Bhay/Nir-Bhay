@@ -17,7 +17,7 @@
 
 <!-- SOCIAL BADGES -->
 <p align="center">
-  <a href="https://nirbhay-phi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722? style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://nirbhayhiwse.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722? style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/nirbhayhiwse"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:nirbhayhiwse37@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <img src="https://komarev.com/ghpvc/?username=Nir-Bhay&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views"/>
