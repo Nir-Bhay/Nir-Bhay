@@ -41,7 +41,7 @@ Shipping web & mobile apps with AI agents, automation workflows, and modern full
 - 🌾 **[AgroSetu](https://nir-bhay.github.io/Agro-Setu/website/index.html)** — AI + retail compliance / farm platform for farmers (built at Gyan Spark).
 - 🧭 **[JobRizz](https://jobrizz.works)** — Google-dorking hidden-job search across 50+ ATS sources.
 - ⚡ **[QuickFill](https://github.com/Nir-Bhay/google-forms-autofill-extension)** (6★) — Google Forms auto-fill. Multi-profile, offline-first, 2k+ downloads.
-- 🏗️ **[Sood Infra](https://www.soodinfra.com/)** — client website delivered within ₹30K. +40% engagement.
+- 🏗️ **[Sood Infra](https://www.soodinfra.com/)** — client website for a real-estate company. +40% engagement.
 
 ## Currently Building
 
@@ -177,7 +177,7 @@ Shipping web & mobile apps with AI agents, automation workflows, and modern full
 - Built **AgroSetu** at Gyan Spark — farmer-focused AI + retail compliance platform
 - Presented projects at an **International Conference** & **Shark Tank** (SAGE)
 - **JavaScript Certified** — HackerRank (2024)
-- Freelance client work including Sood Infra (₹30K, +40% engagement)
+- Freelance client work including Sood Infra (+40% engagement)
 
 ### Philosophy
 
