@@ -135,12 +135,12 @@ Shipping web & mobile apps with AI agents, automation workflows, secure auth, an
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nir-Bhay&theme=react-dark&hide_border=true&area=true)
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nir-Bhay&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nir-Bhay&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="160em" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Nir-Bhay&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="160em" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Nir-Bhay&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nir-Bhay&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Nir-Bhay&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## What I'm Doing
