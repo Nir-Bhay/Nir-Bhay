@@ -1,401 +1,179 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════
-     ███╗   ██╗██╗██████╗ ██████╗ ██╗  ██╗ █████╗ ██╗   ██╗    ██╗  ██╗██╗██╗    ██╗███████╗███████╗
-     ████╗  ██║██║██╔══██╗██╔══██╗██║  ██║██╔══██╗╚██╗ ██╔╝    ██║  ██║██║██║    ██║██╔════╝██╔════╝
-     ██╔██╗ ██║██║██████╔╝██████╔╝███████║███████║ ╚████╔╝     ███████║██║██║ █╗ ██║███████╗█████╗  
-     ██║╚██╗██║██║██╔══██╗██╔══██╗██╔══██║██╔══██║  ╚██╔╝      ██╔══██║██║██║███╗██║╚════██║██╔══╝  
-     ██║ ╚████║██║██║  ██║██████╔╝██║  ██║██║  ██║   ██║       ██║  ██║██║╚███╔███╔╝███████║███████╗
-     ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝       ╚═╝  ╚═╝╚═╝ ╚══╝╚══╝ ╚══════╝╚══════╝
-═══════════════════════════════════════════════════════════════════════════════════════════════ -->
+# Hi, I'm Nirbhay 👋
 
-<div align="center">
+📍 **Bhopal, India** | 🛠️ **Full-Stack Developer** | 🚀 **Building products that ship**
 
-<!-- ANIMATED HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api? type=waving&color=0: 0d1117,50:161b22,100:30363d&height=180&section=header&text=NIRBHAY%20HIWSE&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20SaaS%20Builder%20%7C%20Mobile%20Craftsman&descSize=18&descAlignY=55&animation=fadeIn"/>
+Full-Stack Developer at **webstarts.in** · previously **Gyan Spark Technologies**.
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%9A%80+Building+Next-Gen+Digital+Experiences;%F0%9F%92%BB+React+%7C+Node.js+%7C+React+Native+%7C+Three.js;%F0%9F%8E%AF+From+Bhopal%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" /></a>
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-<!-- SOCIAL BADGES -->
+## Start Here
+
+- ✍️ **[Markups](https://markups.vercel.app)** (18★) — offline-first Markdown + Mermaid editor (PWA). No login. One-click PDF export.
+- 🎓 **[SeatWise](https://nir-bhay.github.io/Seatwise/)** — exam seating SaaS live at SAGE University. Cut planning time by 90%.
+- 🍽️ **[GrihGO](https://grihgo.vercel.app)** — Bihar & Jharkhand food-delivery. Full 3-app ecosystem (Customer · Partner · Delivery).
+- ♟️ **[Chess](https://github.com/Nir-Bhay/chess)** — real-time multiplayer chess. Full 3-app ecosystem (Player app · Backend · AI/Stockfish).
+- 🌾 **[AgroSetu](https://nir-bhay.github.io/Agro-Setu/website/index.html)** — AI + retail compliance / farm platform for farmers (built at Gyan Spark).
+- 🧭 **[JobRizz](https://jobrizz.works)** — Google-dorking hidden-job search across 50+ ATS sources.
+- ⚡ **[QuickFill](https://github.com/Nir-Bhay/google-forms-autofill-extension)** (6★) — Google Forms auto-fill. Multi-profile, offline-first, 2k+ downloads.
+- 🏗️ **[Sood Infra](https://www.soodinfra.com/)** — client website delivered within ₹30K. +40% engagement.
+
+## Currently Building
+
+### At webstarts.in
+
+- 🔄 **AI Live Compiler / Converter** — live code & content conversion powered by AI (in progress)
+- 📍 **Fingo-style product finder** — multi-app ecosystem to check if a product is available at nearby stores (in progress)
+
+### Personal / Product
+
+- ✍️ **[Markups](https://markups.vercel.app)** — shipping features from community feedback
+- 🧭 **[JobRizz](https://jobrizz.works)** — expanding ATS coverage & resume tooling
+- 🌍 **GEO / AEO tooling** — AI search visibility (ChatGPT, Perplexity, Gemini citations)
+
+## Experience
+
+- **Full-Stack Developer** — [webstarts.in](https://webstarts.in) *(present)*  
+  Web & mobile apps · React · React Native · Node.js · TypeScript · AI workflows & automation
+- **Full-Stack Application Developer** — Gyan Spark Technologies *(2025–2026)*  
+  Built **AgroSetu** (farmer-focused AI + retail compliance platform) and other production apps
+- **Freelance Web Developer** — client & product work *(2024–present)*  
+  Sood Infra, WebSkale, Export-Import, GM International, and more
+- **Founder / Project Lead** — SeatWise @ SAGE University  
+  Exam seating automation used by university faculty
+
+## Current Projects
+
+### Products & SaaS
+
+- ✍️ **[Markups](https://markups.vercel.app)** — Monaco-powered Markdown studio with Mermaid, KaTeX, and PWA install
+- 🎓 **[SeatWise](https://github.com/Nir-Bhay/Seatwise)** — AI seating allocation, Excel import, printable PDF plans
+- 🍽️ **[GrihGO](https://grihgo.vercel.app)** — 3-app food delivery (Customer · Partner · Delivery) in React Native / Expo
+- ♟️ **[Chess](https://github.com/Nir-Bhay/chess)** — 3-app chess ecosystem: Expo player app · Node backend · Stockfish AI · wallets · real-time sockets
+- 🌾 **[AgroSetu](https://nir-bhay.github.io/Agro-Setu/website/index.html)** — India's AI + retail compliance / farm-fix platform (Expo app + backend + website)
+- 🧭 **[JobRizz](https://jobrizz.works)** — sniper approach to job search & resume optimization
+- 🧠 **[MindEasy](https://nir-bhay.github.io/MindEase/)** — AI-powered student stress & mental wellness (SIH)
+- 📚 **[FindYour Perfect Library](https://github.com/Nir-Bhay/FindYour-Perfect-library)** — library booking & study-space management
+- 🔐 **[PassMan](https://github.com/Nir-Bhay/PassMan-Your-password-guide-)** — secure password manager (team lead)
+- 🎙️ **[DubMaster AI](https://nir-bhay.github.io/DubMaster-AI-Your-Ultimate-Hub-for-Seamless-AI-Dubbing-Excellence/)** — AI video dubbing platform
+- 🧹 **[ai-data-cleaner](https://github.com/Nir-Bhay/ai-data-cleaner)** — clean CSVs with natural language commands
+
+### Multi-App Ecosystems
+
+| Ecosystem | Apps | Stack |
+|-----------|------|-------|
+| **GrihGO** | Customer · Restaurant Partner · Delivery Partner | React Native, Expo, TypeScript |
+| **Chess** | Player App · Backend API · AI Bot (Stockfish) | Expo, Node.js, Socket.IO, TypeScript |
+| **AgroSetu** | Farmer App · Backend · Marketing Website | Expo, Node.js, TypeScript |
+| **Fingo-style** *(ongoing)* | Product finder · Nearby store availability | Multi-app (in progress @ webstarts.in) |
+
+### Dev Tools & Extensions
+
+- ⚡ **[QuickFill](https://github.com/Nir-Bhay/google-forms-autofill-extension)** — Chrome/Edge/Brave MV3 form autofill
+- 🎨 **[MockupStudio](https://nir-bhay.github.io/MockupStudio/)** — browser-based device mockups for marketing visuals
+- 🧲 **[FlatGrabber](https://github.com/Nir-Bhay/FlatGrabber)** — extract clean SVGs from Flaticon → Figma clipboard bridge
+- 🧩 **[Micron](https://micron-pearl.vercel.app)** — animated UI component library (Next.js · Tailwind · Framer Motion)
+- 🔗 **[LinkedIn Auto-like](https://github.com/Nir-Bhay/LinkedIn-Auto-like)** — social automation extension for learning & experimentation
+- 🧰 **[JS Toolbox](https://github.com/Nir-Bhay/JS-Toolbox---Find-you-best-tools)** — image converter, text-to-handwriting & utility tools
+- 🖼️ **[Imover](https://github.com/Nir-Bhay/Imover)** — background removal & batch image editing
+- 👁️ **[Observation Power Enhancer](https://nir-bhay.github.io/-Observation-Power-Enhancer-AI-Image-Quiz/)** — Gemini-powered image quiz for critical thinking
+- 🎧 **[techlisten](https://github.com/Nir-Bhay/techlisten-audio-summaries)** — convert tech articles to audio summaries
+- 🤖 **[Alchemyst Agent](https://github.com/Nir-Bhay/Alchemyst-Agent)** — agentic TypeScript workflows
+- 🌍 **[geo-optimizer-skill](https://github.com/Nir-Bhay/geo-optimizer-skill)** — AEO / GEO toolkit for AI search visibility
+- 🛠️ **[design-os](https://github.com/Nir-Bhay/design-os-)** — design process between product idea and codebase
+
+### Client & Business Sites
+
+- 🏗️ **[Sood Infra](https://www.soodinfra.com/)** — real-estate company website
+- 🌐 **[WebSkale](https://webskale.tech/)** — web services company landing
+- 📦 **[Export-Import Company](https://nir-bhay.github.io/Export-Import-company/)** — services, products, certifications
+- 🏢 **[GM International LLP](https://gm-international-blond.vercel.app)** — company website
+- 🏠 **[Gautam's Dream Spaces](https://gautam-s-dream-spaces.vercel.app/)** — architecture & interior portfolio
+- 🛋️ **[Iqra Interiors](https://github.com/Nir-Bhay/iqra-interiors-website)** — interiors business website
+- 💅 **[Glow Studio](https://github.com/Nir-Bhay/Glow-Studio)** — beauty & salon booking site
+- ☕ **[Coffee For Life](https://github.com/Nir-Bhay/Coffee-For-Life-)** — cafe / brand landing
+- 💪 **[POWERZONE](https://github.com/Nir-Bhay/POWERZONE---UNLEASH-YOUR-BEAST-MODE)** — fitness brand landing
+- 🍛 **[Spice Symphony](https://github.com/Nir-Bhay/Spice-Symphony---foodzoon)** — food / restaurant site
+- 👗 **[fashion-editorial-v2](https://github.com/Nir-Bhay/fashion-editorial-v2)** — high-end fashion editorial homepage
+- 🏥 **[Nursing Home](https://nursing-home-rouge.vercel.app)** — healthcare landing page
+- 🚀 **[NexGen](https://nex-gen-psi.vercel.app)** — modern Next.js 16 + Framer Motion platform
+- 🌱 **[Breathe ESG](https://github.com/Nir-Bhay/The.Breathe.ESG.Prototype)** — ESG prototype product UI
+- 🏫 **[Basti Ki Pathshala](https://github.com/Nir-Bhay/Basti-Ki-Pathshala-Foundation-NGO)** — NGO website
+- 👩 **[Ranjana Women Empowerment](https://github.com/Nir-Bhay/Ranjana-Women-Empowerment-NGO)** — women skill-development NGO site
+
+### Creative, 3D & Experiments
+
+- 🌌 **[3D Solar System](https://github.com/Nir-Bhay/3D-solar-system-simulation-)** — interactive Three.js solar system
+- 🎨 **[3D Portfolio](https://nirbhay-phi.vercel.app/)** — interactive 3D personal portfolio
+- 🎵 **[Personal Music Player](https://personal-music-player.vercel.app)** — custom music player UI
+- 🏎️ **[F1 Street](https://github.com/Nir-Bhay/F1-Street-Form-Handler)** — F1-inspired streetwear e-commerce
+- 📋 **[Collaborative Task Board](https://github.com/Nir-Bhay/Collaborative-Task-Board)** — real-time Kanban with JWT auth
+- 📊 **[Blackcoffer Dashboard](https://github.com/Nir-Bhay/Blackcoffer-Data-Visualization-Dashboard)** — data visualization dashboard
+- 🎮 **[16 Parchi Game](https://nir-bhay.github.io/16-PARCHI-GAME/)** — multiplayer browser game
+- 🛒 **[Cloud Kitchen](https://github.com/Nir-Bhay/cloud_kitchen-)** — full-stack food ordering app
+- 💳 **[Multi-Currency Payment Gateway](https://github.com/Nir-Bhay/MULTI-CURRENCY-PAYMENT-GATEWAY)** — payment gateway experiment
+- 🖼️ **[AI Portfolio Generator](https://github.com/Nir-Bhay/AI-Portfolio-Generator)** — generate portfolios with AI
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nir-Bhay&theme=react-dark&hide_border=true&area=true)
+
 <p align="center">
-  <a href="https://nirbhayhiwse.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722? style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/nirbhayhiwse"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:nirbhayhiwse37@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Nir-Bhay&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views"/>
-</p>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-                              🎯 ABOUT ME SECTION
-═══════════════════════════════════════════════════════════════════════════════ -->
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent. com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
-
-```typescript
-const nirbhay: Developer = {
-    pronouns: "He" | "Him",
-    location: "Bhopal, India 🇮🇳",
-    education: "B.Tech CSE @ Sage University",
-    
-    currentlyBuilding: [
-        "🎓 SeatWise - Exam Management SaaS",
-        "♟️ Chess - Real-time Multiplayer Mobile App",
-        "🍽️ GrihGO - Regional Food Delivery Platform"
-    ],
-    
-    expertise: {
-        frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
-        mobile: ["React Native", "Expo", "NativeWind"],
-        backend: ["Node.js", "Express", "MongoDB", "REST APIs"],
-        graphics: ["Three.js", "3D Visualization"]
-    },
-    
-    funFact: "I believe every line of code tells a story 📖"
-};
-```
-
-<br clear="both"/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-                              🛠️ TECH STACK
-═══════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Tech Arsenal
-
-<div align="center">
-
-<!-- FRONTEND -->
-<table>
-<tr>
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons? i=html" width="48" height="48" alt="HTML5" />
-    <br><sub><b>HTML5</b></sub>
-</td>
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-    <br><sub><b>CSS3</b></sub>
-</td>
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons? i=js" width="48" height="48" alt="JavaScript" />
-    <br><sub><b>JavaScript</b></sub>
-</td>
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-    <br><sub><b>TypeScript</b></sub>
-</td>
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-    <br><sub><b>React</b></sub>
-</td>
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-    <br><sub><b>Next.js</b></sub>
-</td>
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" />
-    <br><sub><b>Tailwind</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-    <br><sub><b>Node.js</b></sub>
-</td>
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-    <br><sub><b>Express</b></sub>
-</td>
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-    <br><sub><b>MongoDB</b></sub>
-</td>
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-    <br><sub><b>Firebase</b></sub>
-</td>
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" />
-    <br><sub><b>Three.js</b></sub>
-</td>
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-    <br><sub><b>Git</b></sub>
-</td>
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-    <br><sub><b>VS Code</b></sub>
-</td>
-</tr>
-</table>
-
-<!-- MOBILE DEVELOPMENT HIGHLIGHT -->
-<br>
-
-<img src="https://img.shields.io/badge/📱_MOBILE_DEVELOPMENT-161b22?style=for-the-badge" alt="Mobile"/>
-<br><br>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-<img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
-<img src="https://img.shields.io/badge/NativeWind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="NativeWind"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-                              📊 GITHUB STATS
-═══════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://user-images.githubusercontent. com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> GitHub Analytics
-
-<div align="center">
-
-<!-- STATS GRID -->
-<p align="center">
-  <img width="49%" src="https://github-readme-stats. vercel.app/api? username=Nir-Bhay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nir-Bhay&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nir-Bhay&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nir-Bhay&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/? username=Nir-Bhay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nir-Bhay&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- ACTIVITY GRAPH -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nir-Bhay&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" alt="Contribution Graph"/>
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Nir-Bhay&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8)
 
-</div>
+## What I'm Doing
 
----
+- **Shipping at webstarts.in** — AI live compiler/converter + nearby-store product finder ecosystem
+- **Multi-app products** — GrihGO, Chess, AgroSetu — full ecosystems, not just single apps
+- **AI-assisted workflows** — agents, automation, GEO/SEO tooling
+- **Open source** — 124 repos · 226+ stars · building tools I actually use
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-                              🚀 FEATURED PROJECTS
-═══════════════════════════════════════════════════════════════════════════════ -->
+## Connect
 
-## <img src="https://user-images.githubusercontent.com/74038190/216124356-9c7e8f73-5a52-4963-8a1d-5d7e6d7b7a1c.png" width="30" /> Featured Projects
-
-<div align="center">
-
-<!-- PROJECT CARDS -->
-<table>
-<tr>
-
-<!-- SEATWISE SAAS -->
-<td width="50%" valign="top">
-<h3 align="center">🎓 SeatWise SaaS</h3>
-<div align="center">
-<a href="https://github.com/Nir-Bhay/SeatWise-SaaS" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/? username=Nir-Bhay&repo=SeatWise-SaaS&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="SeatWise"/>
-</a>
-<br><br>
-<p><b>Enterprise Exam Management Platform</b></p>
-<img src="https://img.shields.io/badge/React-20232A? style=flat&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-<p><sub>Multi-tenant SaaS • Auto Seating Arrangement • PDF Export • Excel Import</sub></p>
-</div>
-</td>
-
-<!-- CHESS APP -->
-<td width="50%" valign="top">
-<h3 align="center">♟️ Chess Mobile App</h3>
-<div align="center">
-<a href="https://github.com/Nir-Bhay/chess" target="_blank">
-<img src="https://github-readme-stats.vercel. app/api/pin/?username=Nir-Bhay&repo=chess&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Chess"/>
-</a>
-<br><br>
-<p><b>Real-Time Multiplayer Chess Platform</b></p>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Expo-1B1F23?style=flat&logo=expo&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-<p><sub>1. 1M+ Lines of Code • Wallet System • AI Bot • Real-time Matches</sub></p>
-</div>
-</td>
-
-</tr>
-<tr>
-
-<!-- GRIHGO -->
-<td width="50%" valign="top">
-<h3 align="center">🍽️ GrihGO Food Delivery</h3>
-<div align="center">
-<a href="https://github.com/Nir-Bhay/Grihgo" target="_blank">
-<img src="https://github-readme-stats. vercel.app/api/pin/?username=Nir-Bhay&repo=Grihgo&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GrihGO"/>
-</a>
-<br><br>
-<p><b>Bihar & Jharkhand's Food Platform</b></p>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-<p><sub>🔗 <a href="https://grihgo.vercel.app">Live Demo</a> • City Voting • Zero Hidden Charges</sub></p>
-</div>
-</td>
-
-<!-- PORTFOLIO -->
-<td width="50%" valign="top">
-<h3 align="center">🎨 3D Personal Portfolio</h3>
-<div align="center">
-<a href="https://github.com/Nir-Bhay/Nirbhay-Hiwse-Personal-Portfolio" target="_blank">
-<img src="https://github-readme-stats. vercel.app/api/pin/?username=Nir-Bhay&repo=Nirbhay-Hiwse-Personal-Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Portfolio"/>
-</a>
-<br><br>
-<p><b>Interactive 3D Portfolio Website</b></p>
-<img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-<p><sub>🔗 <a href="https://nirbhay-phi.vercel.app/">Live Demo</a> • 3D Neural Network • Cyberpunk Theme</sub></p>
-</div>
-</td>
-
-</tr>
-<tr>
-
-<!-- HIGH FLYERS -->
-<td width="50%" valign="top">
-<h3 align="center">📚 High-Flyers EdTech</h3>
-<div align="center">
-<a href="https://github.com/Nir-Bhay/High-Flyers" target="_blank">
-<img src="https://github-readme-stats.vercel. app/api/pin/?username=Nir-Bhay&repo=High-Flyers&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="High-Flyers"/>
-</a>
-<br><br>
-<p><b>Competitive Exam Prep Platform</b></p>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next. js&logoColor=white"/>
-<p><sub>UPSC/MPPSC/SSC Preparation • AI-Powered • GitHub Pages</sub></p>
-</div>
-</td>
-
-<!-- GYAN SPART -->
-<td width="50%" valign="top">
-<h3 align="center">🏗️ More Projects</h3>
-<div align="center">
-<br><br>
-<a href="https://github.com/Nir-Bhay? tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_ALL_76+_REPOSITORIES-58a6ff? style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<br><br><br>
-<p><b>Including: </b></p>
-<p>
-🔐 PassMan (Password Manager)<br>
-🧠 MindEasy (Mental Health)<br>
-🌌 3D Solar System (Three.js)<br>
-🎵 Personal Music Player<br>
-📚 Library Booking System<br>
-... and many more! 
-</p>
-</div>
-</td>
-
-</tr>
-</table>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/-Nirbhay_Hiwse-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirbhayhiwse/)
+[![Twitter](https://img.shields.io/badge/-@nirbhay__987-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/nirbhay_987)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nir-Bhay)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nirbhayhiwse@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://nirbhay-phi.vercel.app/)
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-                              🏆 ACHIEVEMENTS
-═══════════════════════════════════════════════════════════════════════════════ -->
+### Recognition
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30" /> Achievements & Experience
+- **SeatWise** live at SAGE University — reduced exam planning time by 90%
+- Built **AgroSetu** at Gyan Spark — farmer-focused AI + retail compliance platform
+- Presented projects at an **International Conference** & **Shark Tank** (SAGE)
+- **JavaScript Certified** — HackerRank (2024)
+- Freelance client work including Sood Infra (₹30K, +40% engagement)
 
-<div align="center">
+### Philosophy
 
-<table>
-<tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/💼-Freelance-gold? style=for-the-badge"/>
-<br><b>Sood Infra Website</b>
-<br><sub>₹30,000 Project</sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/🎓-SaaS_Developer-blue?style=for-the-badge"/>
-<br><b>SeatWise Platform</b>
-<br><sub>Sage University</sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/🎤-Conference-purple?style=for-the-badge"/>
-<br><b>Project Presentation</b>
-<br><sub>International Conference</sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/🦈-Startup_Pitch-red?style=for-the-badge"/>
-<br><b>Shark Tank</b>
-<br><sub>Sage University</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/🏆-Hackathon-green? style=for-the-badge"/>
-<br><b>MindEasy Platform</b>
-<br><sub>Sistech Feb 2024</sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/📜-Certified-orange?style=for-the-badge"/>
-<br><b>JavaScript</b>
-<br><sub>HackerRank 2024</sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/📱-Mobile_Dev-cyan?style=for-the-badge"/>
-<br><b>React Native</b>
-<br><sub>1.1M+ Lines</sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/🔥-397+_Commits-crimson?style=for-the-badge"/>
-<br><b>Active Contributor</b>
-<br><sub>Since Nov 2023</sub>
-</td>
-</tr>
-</table>
+> "Ship beats perfect." I turn real problems into products — then put them in front of users.
 
-</div>
+<details>
+<summary>Random Facts</summary>
 
----
+- 124 repos (109 public · 15 private)
+- Built multiple **3-app ecosystems** (GrihGO, Chess, AgroSetu)
+- Markups hit 478 visitors in the first 24 hours
+- Explored 1.9B+ AI tokens at $0 to ship faster
+- Based in Bhopal — shipping web & mobile products
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-                              📫 CONNECT
-═══════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="30" /> Let's Connect
-
-<div align="center">
-
-<a href="https://nirbhay-phi.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/nirbhayhiwse"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:nirbhayhiwse37@gmail.com"><img src="https://img.shields.io/badge/Email-D14836? style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/Nir-Bhay"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-<br><br>
-
-<!-- QUOTE -->
-<img src="https://quotes-github-readme.vercel. app/api? type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-<br>
-
-<!-- SNAKE ANIMATION PLACEHOLDER -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nir-Bhay/Nir-Bhay/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme:  light)" srcset="https://raw.githubusercontent.com/Nir-Bhay/Nir-Bhay/output/github-contribution-grid-snake. svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nir-Bhay/Nir-Bhay/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0: 0d1117,50:161b22,100:30363d&height=120&section=footer"/>
-
-<b>💖 Thanks for visiting!  Let's build something amazing together. </b>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-                         Made with 💙 by Nirbhay Hiwse
-═══════════════════════════════════════════════════════════════════════════════ -->
+</details>
