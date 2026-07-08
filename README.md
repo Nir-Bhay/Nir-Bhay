@@ -1,8 +1,9 @@
 # Hi, I'm Nirbhay 👋
 
-📍 **Bhopal, India** | 🛠️ **Full-Stack Developer** | 🚀 **Building products that ship**
+📍 **Bhopal, India** | 🛠️ **Full-Stack Developer** | 🤖 **AI & Automation** | 🚀 **Building products that ship**
 
-Full-Stack Developer at **webstarts.in** · previously **Gyan Spark Technologies**.
+Full-Stack Developer at **webstarts.in** · previously **Gyan Spark Technologies**.  
+Shipping web & mobile apps with AI agents, automation workflows, and modern full-stack stacks.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -11,10 +12,25 @@ Full-Stack Developer at **webstarts.in** · previously **Gyan Spark Technologies
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![AI Agents](https://img.shields.io/badge/-AI_Agents-111111?style=flat-square&logo=robotframework&logoColor=white)
+![Automation](https://img.shields.io/badge/-Automation-FF6F00?style=flat-square&logo=n8n&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Prompt Eng](https://img.shields.io/badge/-Prompt_Engineering-6366F1?style=flat-square&logo=openai&logoColor=white)
+![Chrome Ext](https://img.shields.io/badge/-Chrome_Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![GEO_AEO](https://img.shields.io/badge/-GEO%2FAEO-0EA5E9?style=flat-square&logo=googlesearchconsole&logoColor=white)
 
 ## Start Here
 
@@ -142,7 +158,7 @@ Full-Stack Developer at **webstarts.in** · previously **Gyan Spark Technologies
 
 - **Shipping at webstarts.in** — AI live compiler/converter + nearby-store product finder ecosystem
 - **Multi-app products** — GrihGO, Chess, AgroSetu — full ecosystems, not just single apps
-- **AI-assisted workflows** — agents, automation, GEO/SEO tooling
+- **AI & automation** — agents, MCP tooling, prompt engineering, browser extensions, GEO/AEO
 - **Open source** — 124 repos · 226+ stars · building tools I actually use
 
 ## Connect
