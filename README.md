@@ -1,9 +1,9 @@
 # Hi, I'm Nirbhay 👋
 
-📍 **Bhopal, India** | 🛠️ **Full-Stack Developer** | 🤖 **AI & Automation** | 🚀 **Building products that ship**
+📍 **Bhopal, India** | 🛠️ **Full-Stack Developer** | 🤖 **AI & Automation** | 🔐 **Security-minded** | 🚀 **Building products that ship**
 
 Full-Stack Developer at **webstarts.in** · previously **Gyan Spark Technologies**.  
-Shipping web & mobile apps with AI agents, automation workflows, and modern full-stack stacks.
+Shipping web & mobile apps with AI agents, automation workflows, secure auth, and modern full-stack stacks.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -31,6 +31,11 @@ Shipping web & mobile apps with AI agents, automation workflows, and modern full
 ![Prompt Eng](https://img.shields.io/badge/-Prompt_Engineering-6366F1?style=flat-square&logo=openai&logoColor=white)
 ![Chrome Ext](https://img.shields.io/badge/-Chrome_Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 ![GEO_AEO](https://img.shields.io/badge/-GEO%2FAEO-0EA5E9?style=flat-square&logo=googlesearchconsole&logoColor=white)
+![Security](https://img.shields.io/badge/-Security-FF0000?style=flat-square&logo=letsencrypt&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Auth](https://img.shields.io/badge/-Auth-2EA44F?style=flat-square&logo=auth0&logoColor=white)
+![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![Privacy](https://img.shields.io/badge/-Privacy--First-6366F1?style=flat-square&logo=privacybadger&logoColor=white)
 
 ## Start Here
 
