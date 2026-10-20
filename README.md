@@ -95,6 +95,15 @@ Shipping web & mobile apps with AI agents, automation workflows, secure auth, an
 
 ### Dev Tools & Extensions
 
+### Featured Developer Tools
+
+| Project | Latest | Stars | What it does |
+|---|---|---|---|
+| [Antigravity Codespaces Pro](https://github.com/Nir-Bhay/antigravity-codespaces) | v5.0.8 · 2,000+ downloads | 4 | Multi-account GitHub Codespaces manager for Cursor, Antigravity, VS Code and Code-OSS: connect, start, stop and rebuild codespaces in one click. |
+| [Antigravity Usage Intelligence](https://github.com/Nir-Bhay/antigravity-usage-intelligence) | v1.0.7 | 3 | Live Antigravity model quota monitor with Gemini and Claude token tracking, prompt-cache savings, activity heatmaps and session analytics. |
+| [CommandCode Cursor Proxy](https://github.com/Nir-Bhay/commandcode-cursor-proxy) | Go | 2 | OpenAI-compatible proxy for CommandCode with an embedded web dashboard, 50+ models, Cloudflare tunnel management and a CLI login helper. |
+| [Store Catalog Exporter](https://github.com/Nir-Bhay/store-catalog-exporter) | Python | 1 | Free exporter for public Shopify catalogs and Product JSON-LD: variants, image and video URLs, collections and coverage reports to CSV and JSON for authorized migrations. |
+
 - ⚡ **[QuickFill](https://github.com/Nir-Bhay/google-forms-autofill-extension)** — Chrome/Edge/Brave MV3 form autofill
 - 🎨 **[MockupStudio](https://nir-bhay.github.io/MockupStudio/)** — browser-based device mockups for marketing visuals
 - 🧲 **[FlatGrabber](https://github.com/Nir-Bhay/FlatGrabber)** — extract clean SVGs from Flaticon → Figma clipboard bridge
